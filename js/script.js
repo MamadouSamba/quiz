@@ -11,9 +11,12 @@ $(document).ready(function() {
         var q2Result = $("#question2").val();
         var q3Result = $("#question3").val();
         var totalScore;
+        
+        $(".result").html(q1Result);
+        
     });
 
 });
 function enjoyment(name){
-    if(enjoyment=)
+    return 1;
 }

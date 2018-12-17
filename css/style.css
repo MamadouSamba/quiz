@@ -4,14 +4,16 @@
     color: #0f65ef;
     font-weight: bold;
     font-size:15px;
+    color:grey;
 }
 
 .logo {
     width: 125px;
+    
 }
 
 body {
-    background-color: white;
+    background-color: #990000;
 }
 
 .siliconValley {
@@ -21,6 +23,10 @@ body {
 
 #caption {
     font-size: 20px;
+    
+}
+#vampire{
+    color:grey;
 }
 
 #tomImg {
